@@ -6,3 +6,25 @@ body{
     background-color: gray;
     border-radius: 10px;
  }
+ .list-aeria{
+    position: fixed;
+    right: 30px;
+    top: 50%;
+    transform: translateY(50%);
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.2);
+    padding: 5px 0;
+    z-index: 1;
+ }
+ .list-aeria a{
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 15px;
+ }
+ .list-aeria{
+
+ }
