@@ -2,3 +2,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+ a:hover{
+    background-color: gray;
+    border-radius: 10px;
+ }
